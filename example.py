@@ -1,4 +1,4 @@
-message = "Hello, World!"
+message = "Hello, Kazu! jsjs"
 
 def print_message(msg):
     for i in range(len(msg)):
